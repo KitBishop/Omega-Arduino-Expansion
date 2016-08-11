@@ -2,5 +2,8 @@ Current Version: 1.0.0
 
 Version Change History
 ======================
+11 August 2016 - Version 1.0.1
+Some board design layout chnages and corresponding documentation changes
+
 19 July 2016 - Version 1.0.0
-First version of the suite
+First version of the board and documentation

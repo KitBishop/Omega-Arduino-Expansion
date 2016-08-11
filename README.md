@@ -11,4 +11,4 @@ A brief summary of features:
 * has reset button
 
 See file **`Omega-Arduino-Expansion.pdf`** for overview documentation.<br>
-The file **`Omega Arduino Expansion-v1.2.123`** contains the board circuit design and layout.
+The file **`Omega Arduino Expansion-v1.3.123`** contains the board circuit design and layout.
